@@ -3,6 +3,8 @@ layout: post
 title: Zookeeper's MyID
 ---
 
+Pesky little detail to make ZooKeeper keep ticking.
+
 Original Thread on StackOverflow: [Zookeeper error: Cannot open channel to X at election address](https://stackoverflow.com/questions/30940981/zookeeper-error-cannot-open-channel-to-x-at-election-address)
 
 ## Problem ##

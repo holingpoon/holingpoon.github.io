@@ -3,6 +3,8 @@ layout: post
 title: eb deploy --staged
 ---
 
+A cool party trick you can use for `eb deploy`.
+
 Reference: [eb deploy](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb3-deploy.html)
 
 ## `eb deploy` ##
