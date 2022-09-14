@@ -6,8 +6,10 @@ permalink: /projects/
 
 * [New York Public Library](https://nypl.org)
 * [NYPL Digital Collections](https://digitalcollections.nypl.org)
+* [Library Simplified](https://librarysimplified.org/)
 * [Drupal NYC](https://drupal.nyc)
 * [DrupalCampNYC](https://drupalcamp.nyc)
+* [Decoupled Days](https://decoupleddays.com/)
 
 # Past Projects
 
