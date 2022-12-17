@@ -27,8 +27,8 @@ footer-links:
   pinterest: # Pinterest Profile here
   rss: # just type anything here for a working RSS icon
   twitter: holingpoon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  stackoverflow: users/11838318/ho-ling-poon # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: channel/UCIKI3UMTCZYtlovVgHA8gGQ # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
