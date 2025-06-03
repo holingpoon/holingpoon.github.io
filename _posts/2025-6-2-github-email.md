@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Email is a serious
+title: Github Email is serious
 ---
 
 Git and Github takes your email a lot more seriously than you think.
