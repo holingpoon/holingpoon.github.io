@@ -3,11 +3,11 @@ layout: post
 title: How to upgrade Drupal 11
 ---
 
-`$ brew install php` `# Needs PHP 8.4`
+`$ brew install php`  ` # Needs PHP 8.4`
 
-`$ brew services start php` `# Starts PHP 8.4`
+`$ brew services start php`  ` # Starts PHP 8.4`
 
-`$ pwd` `# should be in drupal directory`
+`$ pwd`  ` # should be in drupal directory`
  
 `$ composer require drupal/core-recommended:11.2.3 drupal/core-composer-scaffold:11.2.3 drupal/core-project-message:11.2.3 --update-with-all-dependencies`
 
