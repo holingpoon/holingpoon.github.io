@@ -9,6 +9,4 @@ If you're using `podman` instead of `docker`, don't forget to
 export KIND_EXPERIMENTAL_PROVIDER=podman
 ```
 
-Bit me a few times
-
-:sweat_smile:
+Bit me a few times 😅
